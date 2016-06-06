@@ -1,5 +1,7 @@
 import React from 'react';
 
-    React.doSomething()
+React.doSomething();
 
-React.doSomethingElse();
+if (true || React === React) {
+  React.doSomethingElse();
+}
