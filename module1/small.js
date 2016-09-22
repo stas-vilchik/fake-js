@@ -5,3 +5,8 @@ if (a == 1) {
 if (true) {}
 
 if (false) {}
+if (false) {}
+if (false) {}
+if (false) {}
+if (false) {}
+if (false) {}
