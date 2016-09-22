@@ -3,3 +3,5 @@ if (a == 1) {
 }
 
 if (true) {}
+
+if (false) {}
