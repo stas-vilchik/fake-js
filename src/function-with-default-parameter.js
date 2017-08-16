@@ -1,3 +1,7 @@
-function fn (param = () => true) {
-  param(1)
+function fn(param = () => true) {
+  param(1);
+}
+
+if (true) {
+  fn();
 }
