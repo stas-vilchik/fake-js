@@ -1,11 +1,41 @@
-import React from 'react';
+import foo from 'foo';
 
-React.doSomething();
-
-if (true || React === React) {
-  React.doSomethingElse();
-}
-
-if (true || React === React) {
-  React.doSomethingElse();
-}
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo
+foo

@@ -1,3 +1,3 @@
 function fn (param = () => true) {
-  param(1);
+  param(1)
 }
