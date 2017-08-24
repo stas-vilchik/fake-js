@@ -1,0 +1,7 @@
+{
+  "name": "fake-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stas Vilchik <stas.vilchik@sonarsource.com>",
+  "license": "MIT"
+}
