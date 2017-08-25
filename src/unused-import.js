@@ -1,4 +1,4 @@
 import A from 'a';
-A+1
+A + 1;
 console.log('A is not used!');
-A+1
+A + 2;

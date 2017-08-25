@@ -1,7 +1,9 @@
-function fn(param = () => true) {
+function fn(param = () => false) {
   param(1);
 }
 
-if (true) {
+if (false) {
+  fn();
+} else if (false) {
   fn();
 }
