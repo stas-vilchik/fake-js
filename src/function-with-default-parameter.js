@@ -12,3 +12,9 @@ function fn(param = () => true) {
   param(11);
   param(12);
 }
+
+const foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo = 1;
+
+const a = {
+  foo: foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo
+};
