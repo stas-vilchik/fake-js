@@ -16,3 +16,4 @@ export default function SeverityHelper(props /*: { severity: ?string, className?
 }
 
 if (true) {}
+if (false) {}
