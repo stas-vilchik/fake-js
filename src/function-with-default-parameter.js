@@ -16,5 +16,5 @@ function fn(param = () => true) {
 const foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo = 1;
 
 const a = {
-  foo: foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo
+  foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo: foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo
 };
