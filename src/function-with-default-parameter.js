@@ -13,8 +13,8 @@ function fn(param = () => true) {
   param(12);
 }
 
-const foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo = 1;
+const foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo = 1;
 
 const a = {
-  foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo: foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo
+  foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo: foofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoofoo
 };
